@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "index.js"
+    "start": "node index"
   },
   "keywords": [],
   "author": "",
@@ -13,6 +13,7 @@
     "@google-cloud/local-auth": "^2.1.0",
     "axios": "^1.7.2",
     "discord.js": "^14.15.3",
+    "dotenv": "^16.4.7",
     "googleapis": "^105.0.0",
     "node-fetch": "^2.7.0",
     "sequelize": "^6.37.3",
